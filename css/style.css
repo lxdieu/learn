@@ -1,0 +1,7 @@
+*{margin:0px;padding:0px;}
+#wrapper{height:auto;width:100%;min-width:960px;background:#red;}
+#container{height:auto;width:960px;background:#ffffff;margin:auto;}
+#header{height:200px;width:100%;background:yellow;float:left}
+#content{height:800px;width:100%;background:blue;float:left}
+#footer{height:200px;width:100%;background:pink;float:left  }
+
